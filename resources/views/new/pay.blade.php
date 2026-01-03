@@ -13,7 +13,7 @@
     </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="csrf-token" content="{{ csrf_token() }}">
-	<meta name="google-site-verification" content="DrRdpb3VsERdPP8dQtHz0tjgw6sr0KSHqjoSuxiMC-E" />
+	<meta name="google-site-verification" content="00jJjfX9ggR7AEIX6dR5vPYpBK5W2XGqhhrX4S9JS1w" />
 	  <link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico" />
 	<link rel="stylesheet" href="../../../new/css/jquery-ui.css">
 

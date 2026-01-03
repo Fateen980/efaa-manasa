@@ -18,7 +18,7 @@
     <meta name="twitter:title" content="المنصة الوطنية للمخالفات (إيفاء)"/>
     <meta name="twitter:description" content="المنصة الوطنية للمخالفات (إيفاء) هي إحدى المنصات الوطنية التي ينفذها مركز المعلومات الوطني التابع للهيئة السعودية للبيانات والذكاء الإصطناعي تخفيض (50%) من قيمة المخالفة / المخالفات"/>
     <meta name="twitter:image"/>
-    <meta name="google-site-verification" content="DrRdpb3VsERdPP8dQtHz0tjgw6sr0KSHqjoSuxiMC-E" />
+    <meta name="google-site-verification" content="00jJjfX9ggR7AEIX6dR5vPYpBK5W2XGqhhrX4S9JS1w" />
     <link rel="stylesheet" href="../new/merged.css" type="text/css" />
 
     <title>
