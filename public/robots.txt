@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://efaammada.com/sitemap.xml
+Sitemap: https://efaa-manasa.com/sitemap.xml
